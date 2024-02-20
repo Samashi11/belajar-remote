@@ -2,3 +2,5 @@
 2. Alpukat
 3. Tomat
 4. Pisang
+5. Manggis
+6. Durian
